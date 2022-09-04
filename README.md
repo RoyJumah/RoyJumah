@@ -23,7 +23,7 @@
 </div>
 
 ---
-Hi, I'm Roy Jumah a Front End developer from Kenya.
+Hi, I'm Roy Jumah, a Front End developer from Kenya.
 
 - 🌱 I’m currently learning Java Script and also in the process of diving into backend development👩🏿‍💻 
 - 👯 I’m looking to collaborate on projects in HTML, CSS and JavaScript😊
