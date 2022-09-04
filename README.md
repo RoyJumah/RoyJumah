@@ -27,7 +27,7 @@ Hi, I'm Roy Jumah, a Front End developer from Kenya.
 
 - 🌱 I’m currently learning Java Script and also in the process of diving into backend development👩🏿‍💻 
 - 👯 I’m looking to collaborate on projects in HTML, CSS and JavaScript😊
-- 💬 Ask me about, happy to help whenever I can 
+- 💬 Ask me about anything, happy to help whenever I can 
 - 📫 How to reach me: <a href="www.linkedin.com/in/roy-jumah">@royjumah</a>
 - 😄 Pronouns: He/Him
 
