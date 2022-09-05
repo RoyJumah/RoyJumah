@@ -1,11 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/_royissues">
-  <img align="left" alt="Abel Masila | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Roy Jumah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href=www.linkedin.com/in/roy-jumah">
-  <img align="left" alt="Abel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Roy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  <a href="https://www.instagram.com/roy_jumah/">
+  <img align="left" alt="Roy's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>                           
 <!--
 <a href=www.linkedin.com/in/roy-jumah">
   <img align="left" alt="Abel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/.svg" />
