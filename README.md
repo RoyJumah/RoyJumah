@@ -14,7 +14,7 @@
 
 Hi, I'm Roy Jumah, Web Developer from Kenya.
 
-<img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/f2/bd/0e/f2bd0e277efa5ea8a1cad79fa578d2e2.jpg" width="420" height="320" />
 
 **Talking about Personal Stuffs:**
 
