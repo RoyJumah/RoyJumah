@@ -29,7 +29,7 @@ Hi, I'm Roy Jumah,a Web Developer from Kenya.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="20"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/2x/git.png" title="Git" **alt="Git" width="40" height="20"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" title="Git" **alt="Git" width="40" height="20"/>
 </div>
 <br>
 <br>
