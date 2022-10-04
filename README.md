@@ -30,9 +30,9 @@ Hi, I'm Roy Jumah, a Web Developer from Kenya.
 
 **Languages and Tools:**
 
-<h3 align="left">
+<h3 align="left" position ="relative">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
-<p align= "left">
+<p align= "left" position = "absolute">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=RoyJumah&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyJumah&theme=react&layout=compact" />
 </p>
