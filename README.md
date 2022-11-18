@@ -1,4 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ### Connect with me:
 
 <a href="https://linkedin.com/in/roy-jumah">
@@ -19,21 +20,18 @@
 
 Hi, I'm Roy Jumah, a Web Developer from Kenya.
 
-
-
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning JavaScript and ReactJS ;
 - 💬 Ask me about anything, happy to help whenever I can ;
 - 📫 How to reach me: <a href="https://twitter.com/_royissues">@roy_issues</a> ;
 
-
 ### :hammer_and_wrench: Languages and Tools :
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
 <h3 align="left" position ="relative">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
@@ -42,7 +40,7 @@ Hi, I'm Roy Jumah, a Web Developer from Kenya.
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyJumah&theme=react&layout=compact" />
 </p>
 
+### Recent Activity
 
-
-
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
