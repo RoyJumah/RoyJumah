@@ -40,7 +40,7 @@ Hi, I'm Roy Jumah, a Web Developer from Kenya.
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyJumah&theme=react&layout=compact" />
 </p>
 
-### Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
