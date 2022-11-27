@@ -48,9 +48,4 @@ Hi, I'm Roy Jumah, a Web Developer from Kenya.
 3. 🎉 Merged PR [#16](https://github.com/RoyJumah/My-portfolio/pull/16) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
 4. 💪 Opened PR [#16](https://github.com/RoyJumah/My-portfolio/pull/16) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
 5. 🎉 Merged PR [#14](https://github.com/RoyJumah/My-portfolio/pull/14) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-6. 💪 Opened PR [#14](https://github.com/RoyJumah/My-portfolio/pull/14) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-7. 🎉 Merged PR [#13](https://github.com/RoyJumah/My-portfolio/pull/13) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-8. 💪 Opened PR [#13](https://github.com/RoyJumah/My-portfolio/pull/13) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-9. 💪 Opened PR [#3](https://github.com/RoyJumah/try-modal/pull/3) in [RoyJumah/try-modal](https://github.com/RoyJumah/try-modal)
-10. 🎉 Merged PR [#2](https://github.com/RoyJumah/try-modal/pull/2) in [RoyJumah/try-modal](https://github.com/RoyJumah/try-modal)
 <!--END_SECTION:activity-->
