@@ -42,10 +42,6 @@ Hi, I'm Roy Jumah, a Web Developer from Kenya.
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/elarhadu/Capstone-Module-1/issues/1) in [elarhadu/Capstone-Module-1](https://github.com/elarhadu/Capstone-Module-1)
-2. 🎉 Merged PR [#1](https://github.com/RoyJumah/Coachella-Capstone-project/pull/1) in [RoyJumah/Coachella-Capstone-project](https://github.com/RoyJumah/Coachella-Capstone-project)
-3. 🎉 Merged PR [#16](https://github.com/RoyJumah/My-portfolio/pull/16) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-4. 💪 Opened PR [#16](https://github.com/RoyJumah/My-portfolio/pull/16) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-5. 🎉 Merged PR [#14](https://github.com/RoyJumah/My-portfolio/pull/14) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
