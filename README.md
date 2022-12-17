@@ -31,6 +31,9 @@ const RoyJumah = {
 }
 ```
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left" position ="relative">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
 <p align= "left" position = "absolute">
