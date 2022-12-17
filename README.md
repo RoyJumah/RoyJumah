@@ -42,3 +42,4 @@ const RoyJumah = {
 </p>
 
 
+<p>You can check out my portfolio <a href="https://royjumah.github.io/My-portfolio/">here</a>
