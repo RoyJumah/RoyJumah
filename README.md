@@ -14,24 +14,22 @@
 <a href="https://mailto:royjumah17@gmail.com">
   <img align="left" alt="Roy's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/128/4238/4238990.png" />
 </a>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
 <br />
 <br />
 
-Hi, I'm Roy Jumah, a Web Developer from Kenya.
+```javascript
+const RoyJumah = {
+  studentAt: "Microverse",
+  currentlyLearning: 'Javascript and ReactJS',
+  lookingFor: "Front-end development opportunities" || "Full-stack web development",
+  Stack: ['JavaScript, HTML/CSS,Bootstrap,C, C++, Python'],
+  challenge: "I always strive to be get better at something evey day",
+  askMeAbout: ['Video Games, Football, Basketball, Front-End Dev, Animes '],
+  funFacts: ["I like playing action video games and watch animes when I'm free"] 
+ 
 
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning JavaScript and ReactJS ;
-- 💬 Ask me about anything, happy to help whenever I can ;
-- 📫 How to reach me: <a href="https://twitter.com/_royissues">@roy_issues</a> ;
-
-### :hammer_and_wrench: Languages and Tools :
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+}
+```
 
 <h3 align="left" position ="relative">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
