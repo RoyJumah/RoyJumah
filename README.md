@@ -30,8 +30,13 @@ const RoyJumah = {
 
 }
 ```
-
+### This week I spent my time on <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="40">
 <!--START_SECTION:waka-->
+
+```text
+Other   18 hrs 5 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left" position ="relative">
