@@ -30,7 +30,7 @@ const RoyJumah = {
 
 }
 ```
-
+### This week I spent my time on <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="40">
 <!--START_SECTION:waka-->
 
 ```text
