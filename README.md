@@ -25,7 +25,7 @@ const RoyJumah = {
   Stack: ['JavaScript, HTML/CSS,Bootstrap,C, C++, Python'],
   challenge: "I always strive to be get better at something evey day",
   askMeAbout: ['Video Games, Football, Basketball, Front-End Dev, Animes '],
-  funFacts: ["I like playing action video games and watching animes when I'm free"] 
+  funFacts: ["I like cats a lot😄"] 
  
 
 }
