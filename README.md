@@ -34,7 +34,7 @@ const RoyJumah = {
 <!--START_SECTION:waka-->
 
 ```text
-Other        52 hrs 58 mins  ███████████████████████▓░   94.39 %
+Other        68 hrs 5 mins   ███████████████████████▒░   93.94 %
 ```
 
 <!--END_SECTION:waka-->
