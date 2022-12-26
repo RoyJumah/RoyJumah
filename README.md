@@ -30,15 +30,14 @@ const RoyJumah = {
 
 }
 ```
-### This week I spent my time on <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="40">
-<!--START_SECTION:waka-->
-
-```text
-Other        83 hrs 9 mins   ███████████████████████▒░   93.16 %
-```
-
-<!--END_SECTION:waka-->
-
+<img
+  src="https://github.com/RoyJumah/RoyJumah/blob/main/images/stat.svg"
+  alt="Roy Wakatime Activity"
+/>
+<!-- <img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>**** -->
 <h3 align="left" position ="relative">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
 <p align= "left" position = "absolute">
