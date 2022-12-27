@@ -30,6 +30,7 @@ const RoyJumah = {
 
 }
 ```
+### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 <img
   src="https://github.com/RoyJumah/RoyJumah/blob/main/images/stat.svg"
   alt="Roy Wakatime Activity"
