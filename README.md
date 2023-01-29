@@ -27,9 +27,8 @@
 ### :man_technologist: About Me :
 - :mortar_board: I have a Bachelor's Degree in Computer Science from the Multimedia University of Kenya
 - :seedling: I'm currently enrolled at ![](https://img.shields.io/badge/Microverse-blueviolet) where I'm undertaking a Full-Stack development course
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank, playing video games and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-jumah/)
-- :sparkles:In my free time, I like writing articles on Medium,learning new programming languages and playing video games
 - :sunny: Fun fact: The first computer bug was a moth, which was found lodged in a Harvard Mark II computer in 1947 and inspired the use of the term 'debugging'.
 ***
 
