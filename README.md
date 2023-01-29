@@ -2,7 +2,7 @@
 
 <h1 align ="center"> Hi there👋🏿, I'm Roy</h1>
 
- **<p align = "center"> A frontend web developer and a computer scintist from Kenya</p>**
+ **<p align = "center"> A frontend web developer and a computer scientist from Kenya</p>**
  <p align ="center">I am a passionate learner with a love for new languages, both in programming and human communication. I enjoy working with others to solve challenging problems and design intuitive and user-friendly interfaces. My goal is to constantly improve my skills and contribute to the growth of the tech community.</p>
  
 ***
