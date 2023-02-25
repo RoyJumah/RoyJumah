@@ -21,6 +21,9 @@
   <a href="https://www.instagram.com/roy_jumah/"> 
   <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+  <a href = "https://medium.com/@royjumah17">
+  <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 ***
@@ -28,12 +31,14 @@
 - :mortar_board: I have a Bachelor's Degree in Computer Science from the Multimedia University of Kenya
 - :seedling: I'm currently enrolled at ![](https://img.shields.io/badge/Microverse-blueviolet) where I'm undertaking a Full-Stack development course
 - :zap: In my free time, I solve problems on Hackerrank, playing video games and read tech articles.
+- :page_facing_up: I also like writing non-technical articles, you can check out my latest article [here](https://medium.com/@royjumah17/conquer-your-inner-critic-understanding-and-coping-with-imposter-syndrome-8af894553a3e)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-jumah/)
 - :sunny: Fun fact: The first computer bug was a moth, which was found lodged in a Harvard Mark II computer in 1947 and inspired the use of the term 'debugging'.
 ***
 
 ### :hammer_and_wrench: Languages and Tools :  
 <p><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"><img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src ="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /><img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white " /> <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   
 </p>
 
